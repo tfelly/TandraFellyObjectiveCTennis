@@ -1,0 +1,813 @@
+TTennisInObjectiveC
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.pch TennisInObjectiveC/TennisInObjectiveC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC normal i386
+cCopyStringsFile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/en.lproj/InfoPlist.strings TennisInObjectiveC/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Images.xcassets
+cProcessInfoPlistFile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Info.plist /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Info.plist
+cGenerateDSYMFile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC
+cTouch /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052814C5E0000000000000176
+t1384205406
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052685A4A00000000000003B5
+t1382570570
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052685A5100000000000001A0
+t1382570577
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052685A530000000000445870
+t1382570579
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052685A55000000000088C680
+t1382570581
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052685A5A0000000001DB9910
+t1382570586
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052685AAB0000000000000AC9
+t1382570667
+s2761
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m
+c0000000052EF57770000000000000303
+t1391417207
+s771
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m
+c0000000052F0591D0000000000000345
+t1391483165
+s837
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m
+c0000000052F059330000000000000394
+t1391483187
+s916
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m
+c0000000052F058F200000000000003E6
+t1391483122
+s998
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m
+c0000000052F054B0000000000000075F
+t1391482032
+s1887
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m
+c0000000052F0536500000000000006A3
+t1391481701
+s1699
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m
+c0000000052F0594B00000000000002A0
+t1391483211
+s672
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m
+c0000000052EF5A5800000000000004FF
+t1391417944
+s1279
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m
+c0000000052F058DA00000000000005F0
+t1391483098
+s1520
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m
+c0000000052F05C3700000000000004A4
+t1391483959
+s1188
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m
+c0000000052F059030000000000000452
+t1391483139
+s1106
+
+N/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m
+c0000000052F05BD00000000000000302
+t1391483856
+s770
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.pch
+t1391484399
+s109072
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o
+t1391484399
+s65284
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o
+t1391484399
+s10380
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o
+t1391484399
+s7824
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o
+t1391484399
+s6616
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o
+t1391484399
+s8960
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o
+t1391484399
+s14772
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o
+t1391484399
+s12820
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o
+t1391484399
+s5280
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o
+t1391484399
+s16644
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o
+t1391484399
+s9336
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o
+t1391484399
+s12384
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TennisInObjectiveC.LinkFileList
+c0000000052F05DEE0000000000000C08
+t1391484398
+s3080
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o
+t1391484399
+s8380
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o
+t1391484399
+s8308
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o
+t1391484399
+s41064
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o
+t1391484399
+s6804
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/assetcatalog_dependencies.txt
+t1391484400
+s547
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/assetcatalog_generated_info.plist
+t1391484400
+s525
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app
+t1391484400
+s306
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM
+t2
+s0
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Base.lproj/Main.storyboardc
+t1391484400
+s170
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Info.plist
+t1391484400
+s1041
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/PkgInfo
+t1391484400
+s8
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC
+t1391484400
+s57368
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/en.lproj/InfoPlist.strings
+t1391484400
+s42
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m
+c0000000052E08B7000000000000007E4
+t1390447472
+s2020
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Base.lproj/Main.storyboard
+c0000000052E08B700000000000000630
+t1390447472
+s1584
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Images.xcassets
+c0000000052EBF1DE0000000000000088
+t1391194590
+s136
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Info.plist
+c0000000052E08B7000000000000004C0
+t1390447472
+s1216
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Prefix.pch
+c0000000052E08B700000000000000158
+t1390447472
+s344
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m
+c0000000052E08B7000000000000001FA
+t1390447472
+s506
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/en.lproj/InfoPlist.strings
+c0000000052E08B70000000000000002D
+t1390447472
+s45
+
+N/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m
+c0000000052F05DED00000000000003CD
+t1391484397
+s973
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Competition.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Game.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/GameScore.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Player.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/PointScore.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Score.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m
+r0
+
+CBuild AST from /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies679c8e6e95a0b841^6c95a06e95a0b841^---0#1#1#--18"Check dependencies36"D3440660-7DF7-4906-8E5B-CCEAE0FAEEA8-
+
+CCompileAssetCatalog /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Images.xcassets
+s413177200.034205
+e413177200.495939
+r1
+xCompileAssetCatalog
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Images.xcassets
+o2014-02-03 19:26:40.370 IBCocoaTouchImageCatalogTool[4626:303] CFPreferences: user home directory at file:///Users/livin4myjesus316/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/LaunchImage-700-568h@2x.png
+o/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Assets.car
+o/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"CompileAssetCatalog DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app TennisInObjectiveC/Images.xcassets145"CompileAssetCatalog DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app TennisInObjectiveC/Images.xcassets41d5087095a0b841^40f67e7095a0b841^-809"2014-02-03 19:26:40.370 IBCocoaTouchImageCatalogTool[4626:303] CFPreferences: user home directory at file:///Users/livin4myjesus316/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/LaunchImage-700-568h@2x.png/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Assets.car/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@93"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Images.xcassets/0000000000000000^1410"CompileAssetCatalog DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app TennisInObjectiveC/Images.xcassets    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Images.xcassets36"117B8E42-2D98-4ED7-B200-6DB7275BBE31-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.813590
+e413177199.958929
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m266"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o TennisInObjectiveC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler056bd06f95a0b841^e17df56f95a0b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m0000000000000000^4532"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o TennisInObjectiveC/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.dia -c /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o36"05B2E87F-0782-4705-88B5-58C118F271CF-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.913524
+e413177199.965353
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m323"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler43fee96f95a0b841^e621f76f95a0b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m0000000000000000^4595"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o36"F9AC152E-43AB-420D-910F-AA1FC614DD01-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Competition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.682163
+e413177199.740099
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m309"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd40aaf6f95a0b841^9c6abd6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m0000000000000000^4553"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o36"1FA86960-B075-4416-9A77-3A04B9886CE3-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.856719
+e413177199.913255
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m319"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf5bcdb6f95a0b841^dec7e96f95a0b841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m0000000000000000^4583"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o36"6A3631B3-DA13-4E46-AA0B-37103A908C7E-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/GameScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.803926
+e413177199.856231
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m311"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7efcd6f95a0b841^5932db6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m0000000000000000^4559"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o36"FDD4319D-453E-488D-98DB-6F699143371D-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.681684
+e413177199.762598
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m321"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera2b5ae6f95a0b841^5f44c36f95a0b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m0000000000000000^4589"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o36"966A30DB-F158-4236-AD52-9D468635DEB4-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.905159
+e413177199.961739
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m313"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera1dbe76f95a0b841^5035f66f95a0b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m0000000000000000^4565"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o36"A314FA06-5483-476A-A626-00F149264D55-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Player.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.764392
+e413177199.813319
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m321"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler02d9c36f95a0b841^0036d06f95a0b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m0000000000000000^4589"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o36"2FC70718-E547-47E8-961A-D81070792668-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/PointScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.792025
+e413177199.849429
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m311"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9fe4ca6f95a0b841^5ab7d96f95a0b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m0000000000000000^4559"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o36"2F928E0C-AB66-44E1-BCBF-FD5A651B72FF-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Score.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.681462
+e413177199.739767
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m307"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4295ae6f95a0b841^2c65bd6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m0000000000000000^4547"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o36"E3160DE9-EE2C-4C43-B5AD-01FAEFD3028F-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.741387
+e413177199.802104
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m317"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler20ebbd6f95a0b841^a758cd6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m0000000000000000^4577"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o36"45955E9F-C02B-4EA4-999F-AF7AD1874F06-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.870997
+e413177199.921017
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/PointScore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m321"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler431cdf6f95a0b841^e7c7eb6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m0000000000000000^4589"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreaker.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o36"7514EFD4-C600-4002-A945-4A5EE4D5669D-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.740438
+e413177199.791765
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o
+x/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m331"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb9fabd6f95a0b841^62bcca6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m0000000000000000^4619"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.dia -c /Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o36"55DB8B04-DB91-4FE0-A9A4-9C4B45615C42-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.682989
+e413177199.869647
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m272"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o TennisInObjectiveC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8319af6f95a0b841^62a1de6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m0000000000000000^4550"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o TennisInObjectiveC/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.dia -c /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/ViewController.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o36"6B3642A8-C8F8-434B-9B2C-BFD270045480-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177199.849690
+e413177199.903859
+r1
+xCompileC
+xDerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/AppDelegate.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Player.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Game.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Competition.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/GameScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Score.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Match.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/MatchScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/SetScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/TieBreakerScore.h
+d/Users/livin4myjesus316/Desktop/Felly_Tennis_Objective-C/TennisInObjectiveC/Set.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m252"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o TennisInObjectiveC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8fa7d96f95a0b841^5a64e76f95a0b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m0000000000000000^4490"CompileC DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o TennisInObjectiveC/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -include /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.dia -c /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/main.m -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o36"4F1C1771-23B2-4523-944F-74E14EB0710D-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCompileStoryboard /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Base.lproj/Main.storyboard
+s413177200.033703
+e413177200.971145
+r1
+xCompileStoryboard
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Base.lproj/Main.storyboard
+o2014-02-03 19:26:40.888 Interface Builder Cocoa Touch Tool[4627:303] CFPreferences: user home directory at file:///Users/livin4myjesus316/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard TennisInObjectiveC/Base.lproj/Main.storyboard63"CompileStoryboard TennisInObjectiveC/Base.lproj/Main.storyboard62f4087095a0b841^6b9df87095a0b841^-240"2014-02-03 19:26:40.888 Interface Builder Cocoa Touch Tool[4627:303] CFPreferences: user home directory at file:///Users/livin4myjesus316/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@103"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Base.lproj/Main.storyboard0000000000000000^939"CompileStoryboard TennisInObjectiveC/Base.lproj/Main.storyboard    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Base.lproj/Main.storyboardc /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/Base.lproj/Main.storyboard36"6CC92986-A81D-48A6-BCB6-A070AB502AEF-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CCopyStringsFile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/en.lproj/InfoPlist.strings TennisInObjectiveC/en.lproj/InfoPlist.strings
+s413177200.033455
+e413177200.037343
+r1
+xCopyStringsFile
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/en.lproj/InfoPlist.strings
+xTennisInObjectiveC/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy TennisInObjectiveC/en.lproj/InfoPlist.strings179"CopyStringsFile DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/en.lproj/InfoPlist.strings TennisInObjectiveC/en.lproj/InfoPlist.strings37c4087095a0b841^ba4c097095a0b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/en.lproj/InfoPlist.strings0000000000000000^723"CopyStringsFile DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/en.lproj/InfoPlist.strings TennisInObjectiveC/en.lproj/InfoPlist.strings    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/en.lproj -- TennisInObjectiveC/en.lproj/InfoPlist.strings36"E9A00EEB-3F59-4866-9ADB-5FFD0ADD354F-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CGenerateDSYMFile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC
+s413177200.974040
+e413177201.002964
+r1
+xGenerateDSYMFile
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Generate /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM222"GenerateDSYMFile DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveCdc67f97095a0b841^c6c2007195a0b841^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM003470dbddffdf42^887"GenerateDSYMFile DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app.dSYM36"D4B093E0-C758-4862-AEAD-C89A26701202-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CLd /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC normal i386
+s413177199.968562
+e413177200.031336
+r1
+xLd
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC
+xnormal
+xi386
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TennisInObjectiveC.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Set.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/MatchScore.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Game.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/ViewController.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreakerScore.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/SetScore.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/PointScore.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Score.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Match.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/AppDelegate.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/main.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/GameScore.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TieBreaker.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Player.o
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/Competition.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"Link /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC124"Ld DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC normal i3860b0df86f95a0b841^3a06087095a0b841^---0#0#1#--1757"Ld DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC normal i386    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator -filelist /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TennisInObjectiveC.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/Objects-normal/i386/TennisInObjectiveC_dependency_info.dat -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/TennisInObjectiveC36"7B979587-C8AA-41B1-9323-017AAC68BDFD-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CProcessInfoPlistFile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Info.plist /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Info.plist
+s413177200.971869
+e413177200.973601
+r1
+xProcessInfoPlistFile
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Info.plist
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Process /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Info.plist171"ProcessInfoPlistFile DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Info.plist TennisInObjectiveC/TennisInObjectiveC-Info.plistc2daf87095a0b841^923ef97095a0b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Info.plist0000000000000000^1165"ProcessInfoPlistFile DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Info.plist TennisInObjectiveC/TennisInObjectiveC-Info.plist    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Info.plist -genpkginfo /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/assetcatalog_generated_info.plist -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app/Info.plist36"DDE82B9B-4FB9-4A08-86B6-210334694422-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CProcessPCH /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.pch TennisInObjectiveC/TennisInObjectiveC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413177198.628343
+e413177199.680837
+r1
+xProcessPCH
+x/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.pch
+xTennisInObjectiveC/TennisInObjectiveC-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile TennisInObjectiveC/TennisInObjectiveC-Prefix.pch286"ProcessPCH DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.pch TennisInObjectiveC/TennisInObjectiveC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93fca06e95a0b841^ba4bae6f95a0b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Prefix.pch0000000000000000^4362"ProcessPCH DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.pch TennisInObjectiveC/TennisInObjectiveC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/livin4myjesus316/Desktop/TennisInObjectiveC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-generated-files.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-own-target-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-all-target-headers.hmap -iquote /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/TennisInObjectiveC-project-headers.hmap -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources/i386 -I/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/TennisInObjectiveC.build/Debug-iphonesimulator/TennisInObjectiveC.build/DerivedSources -F/Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.dia -MMD -MT dependencies -MF /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.d -c /Users/livin4myjesus316/Desktop/TennisInObjectiveC/TennisInObjectiveC/TennisInObjectiveC-Prefix.pch -o /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Intermediates/PrecompiledHeaders/TennisInObjectiveC-Prefix-dvuloktuwpcovjeqoxmyaiiyzmfj/TennisInObjectiveC-Prefix.pch.pch36"E10D1EF5-3D36-4087-9B45-1A8283E71EAF-
+bBE77EC0B-6A2B-4136-BD18-085D0288D3DC
+
+CProcessPCH /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Index/PrecompiledHeaders/TennisInObjectiveC-Prefix-dupdmqrozjvkicaxkgqnbcyufwuo_ast/TennisInObjectiveC-Prefix.pch.pch TennisInObjectiveC/TennisInObjectiveC-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/livin4myjesus316/Desktop/TennisInObjectiveC/DerivedData/TennisInObjectiveC/Build/Products/Debug-iphonesimulator/TennisInObjectiveC.app
+r0
+
